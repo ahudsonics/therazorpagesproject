@@ -16303,8 +16303,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\AnthonyHudson\\Documents\\GitHub\\therazorpagesproject\\razorpagesproject\\Pages\\Movies\\Delete.cshtml",
+      "TargetPath": "Pages\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\AnthonyHudson\\Documents\\GitHub\\therazorpagesproject\\razorpagesproject\\Pages\\Movies\\Create.cshtml",
+      "TargetPath": "Pages\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\AnthonyHudson\\Documents\\GitHub\\therazorpagesproject\\razorpagesproject\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\AnthonyHudson\\Documents\\GitHub\\therazorpagesproject\\razorpagesproject\\Pages\\Movies\\Details.cshtml",
+      "TargetPath": "Pages\\Movies\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16315,6 +16330,16 @@
     {
       "FilePath": "c:\\Users\\AnthonyHudson\\Documents\\GitHub\\therazorpagesproject\\razorpagesproject\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\AnthonyHudson\\Documents\\GitHub\\therazorpagesproject\\razorpagesproject\\Pages\\Movies\\Edit.cshtml",
+      "TargetPath": "Pages\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\AnthonyHudson\\Documents\\GitHub\\therazorpagesproject\\razorpagesproject\\Pages\\Movies\\Index.cshtml",
+      "TargetPath": "Pages\\Movies\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
